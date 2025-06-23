@@ -70,4 +70,6 @@ We create four interactive charts using matplotlib:
 4. Security awareness - Protecting sensitive credentials
 5. Error handling - Managing API failures gracefully
 
+*OUTPUT:*
 
+![Image](https://github.com/user-attachments/assets/b5af6824-d4b8-42bb-b36a-c0eba1df78ee)
