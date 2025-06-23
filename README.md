@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##DESCRIPTION: This Weather Dashboard is a Python application that fetches real-time weather data for multiple cities, displays current conditions, 5-day forecasts, and weather alerts in an easy-to-understand visual format. Designed for both beginners and experienced developers, it demonstrates practical API usage, data visualization, and secure coding practices.
+*DESCRIPTION*: This Weather Dashboard is a Python application that fetches real-time weather data for multiple cities, displays current conditions, 5-day forecasts, and weather alerts in an easy-to-understand visual format. Designed for both beginners and experienced developers, it demonstrates practical API usage, data visualization, and secure coding practices.
 
 Weather affects our daily lives - from planning outdoor activities to making travel decisions. This project solves the problem of checking multiple weather sources by providing:
 - Consolidated weather data for multiple locations
